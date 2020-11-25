@@ -1,3 +1,5 @@
+# Note: This repo was created for testing creation of Docker image. (can refer to in other DSC180 repo)
+
 # Instructions on Building a Custom Image for DataHub/DSMLP
 
 This guide is for advanced DSMLP users (both students and instructors) who want to add or modify applications on their working environment using a custom Docker container. 
